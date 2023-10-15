@@ -1,0 +1,37 @@
+.imgpg1{width: 100%;
+    border: 5px solid white;
+    height: 400px;}
+
+.dip{text-align:center;
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    margin-top: 100px;}
+
+html{background: black;}
+h1{text-align: center;
+color: white;}
+
+
+
+.imgpg2{width: 20%;
+    height: 200px;}
+
+.imgpg3{width: 20%;
+    height: 200px;
+    margin-left: 440px;}
+
+.imgpg4{width: 20%;
+        height: 200px;
+        margin-top: 250px;}
+    
+.imgpg5{width: 20%;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 440px;}
+
+.imgpg6{width: 500px;
+    height:500px ;
+    margin-left: 300px;}
+
